@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my first github respirotary.
-author Rahul kumar
+/n Author Rahul kumar
